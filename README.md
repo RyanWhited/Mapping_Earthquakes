@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
 ![Earthquakes](https://github.com/RyanWhited/Mapping_Earthquakes/blob/main/images/earthquake-3167693_1280.jpg)
 
 ## Overview
